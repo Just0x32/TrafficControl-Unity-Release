@@ -1,4 +1,4 @@
-# 'Traffic Control' by The One Home
+# 'Traffic Control'
 
 Demo remake of the same name game.
 
